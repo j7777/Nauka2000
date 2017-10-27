@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:key="use_connect"
+        android:title="@string/internet_connect"
+        android:summary="@string/connect_wifi"
+        android:defaultValue="true"/>
+    <EditTextPreference
+        android:key="count_load"
+        android:title="@string/count_load_title"
+        android:summary="@string/count_load_desc"
+        android:defaultValue="10"
+        android:dialogTitle="@string/count_load_modal"
+        android:inputType="number"/>
+</PreferenceScreen>

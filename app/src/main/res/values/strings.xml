@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Nauka2000+</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Настройки</string>
+
+    <string name="nav_cat">Категории</string>
+    <string name="nav_tag">Теги</string>
+    <string name="nav_stat">Публикации</string>
+    <string name="nav_add">Предложить</string>
+    <string name="nav_info">О проекте</string>
+    <string name="nav_send">Контакты</string>
+    <string name="nav_exit">Выход</string>
+
+    <string name="nav_title">Наука 2000+</string>
+    <string name="nav_site">www.nauka2000.com</string>
+
+    <string name="title_activity_cat">Категории</string>
+    <string name="title_activity_tag">Теги</string>
+    <string name="title_activity_stat">Публикации</string>
+    <string name="title_activity_add">Предложить</string>
+    <string name="title_activity_info">О проекте</string>
+    <string name="title_activity_send">Контакты</string>
+    <string name="title_activity_search">Поиск</string>
+    <string name="title_activity_post_full">Публикация</string>
+
+    <string name="internet_connect">Сеть</string>
+    <string name="connect_wifi">Использовать только wifi</string>
+    <string name="count_load_title">Загрузки</string>
+    <string name="count_load_desc">Количество скачиваемых записей</string>
+    <string name="count_load_modal">Количество (1-50)</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="error_connect">Нет доступных подключений</string>
+    <string name="error_wifi">Нет одключения wifi</string>
+    <string name="nothing_more_download">Больше нечего загружать</string>
+    <string name="error_load">Ошибка при загрузке</string>
+    <string name="action_search">Поиск</string>
+    <string name="publications">Публикаций</string>
+    <string name="string_search">Поиск: </string>
+    <string name="no_search">Ничего не найдено</string>
+    <string name="mess_send">Сообщение с мобильного приложения Nauka2000+</string>
+    <string name="mess_send_email">Текст сообщения</string>
+</resources>
